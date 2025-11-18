@@ -1,0 +1,10 @@
+{'genre': 'Film-Noir', 'avg_rating': 3.99, 'num_rated_movies': 4}
+{'genre': 'War', 'avg_rating': 3.89, 'num_rated_movies': 19}
+{'genre': 'Mystery', 'avg_rating': 3.83, 'num_rated_movies': 38}
+{'genre': 'Crime', 'avg_rating': 3.81, 'num_rated_movies': 87}
+{'genre': 'Drama', 'avg_rating': 3.8, 'num_rated_movies': 166}
+{'genre': 'IMAX', 'avg_rating': 3.76, 'num_rated_movies': 28}
+{'genre': 'Animation', 'avg_rating': 3.72, 'num_rated_movies': 32}
+{'genre': 'Musical', 'avg_rating': 3.65, 'num_rated_movies': 21}
+{'genre': 'Thriller', 'avg_rating': 3.65, 'num_rated_movies': 121}
+{'genre': 'Fantasy', 'avg_rating': 3.64, 'num_rated_movies': 66}
